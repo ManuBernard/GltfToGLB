@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Toyo EVO 1 - black blanc",
+    "model": "toyo_evo1_black_blanc.glb",
+    "evo": 1,
+    "colors": [
+      "black",
+      "blanc"
+    ]
+  },
+  {
+    "name": "Toyo EVO 1 - blue light gold",
+    "model": "toyo_evo1_blue_light_gold.glb",
+    "evo": 1,
+    "colors": [
+      "blue",
+      "light",
+      "gold"
+    ]
+  },
+  {
+    "name": "Toyo EVO 1 - green light red",
+    "model": "toyo_evo1_green_light_red.glb",
+    "evo": 1,
+    "colors": [
+      "green",
+      "light",
+      "red"
+    ]
+  }
+]
