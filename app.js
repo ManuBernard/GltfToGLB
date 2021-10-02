@@ -40,28 +40,53 @@ fs.readdir(carsFolder, (err, files) => {
     if(file != '.DS_Store')  {
       gltfIE.ConvertGltfToGLB(carsFolder + file + '/' + file + '.gltf', exportsFolder + file + '.glb');
       cars.push({
-        name: createName(file),
-        model: file + '.glb',
+        model: createModel(file),
         evo: parseInt(file.split('_')[1].replace('evo', '')),
-        colors: file.split('_').slice(2)
+        name: createName(file),
+        fullName: createFullName(file),
+        colors: file.split('_').slice(2),
+        file: file + '.glb'
       })
     }
   });
 
   // Create JSON list
-  console.log(cars);
   let data = JSON.stringify(cars, null, 2);
   fs.writeFileSync('cars.json', data);
-
 });
 
+function createModel(file){
+  let chunks = file.split('_').slice(0, 1);
+  let name = chunks.join(' ');
+  let t = 0;
+
+  name = name.replace(/_/g, match => ++t === 2 ? ' - ' : match)
+  name = name.charAt(0).toUpperCase() + name.replaceAll('_', ' ').slice(1);
+
+  return name
+}
 
 function createName(file){
-  let name = file
+  let chunks = file.split('_').slice(0, 2);
+  let name = chunks.join(' ');
   let t = 0;
+
   name = name.replace(/_/g, match => ++t === 2 ? ' - ' : match)
   name = name.replaceAll('_', ' ');
   name = name.charAt(0).toUpperCase() + name.replaceAll('_', ' ').slice(1);
   name = name.replace('evo', 'evo '.toUpperCase());
+
+  return name
+}
+
+function createFullName(file){
+  let name = file
+  let t = 0;
+
+  name = name.replace(/_/g, match => ++t === 2 ? ' - ' : match)
+  name = name.replaceAll('_', ' ');
+  name = name.charAt(0).toUpperCase() + name.replaceAll('_', ' ').slice(1);
+  name = name.replace('evo', 'evo '.toUpperCase());
+
   return name
 }

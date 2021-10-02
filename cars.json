@@ -1,31 +1,37 @@
 [
   {
-    "name": "Toyo EVO 1 - black blanc",
-    "model": "toyo_evo1_black_blanc.glb",
+    "model": "Toyo",
     "evo": 1,
+    "name": "Toyo EVO 1",
+    "fullName": "Toyo EVO 1 - black blanc",
     "colors": [
       "black",
       "blanc"
-    ]
+    ],
+    "file": "toyo_evo1_black_blanc.glb"
   },
   {
-    "name": "Toyo EVO 1 - blue light gold",
-    "model": "toyo_evo1_blue_light_gold.glb",
+    "model": "Toyo",
     "evo": 1,
+    "name": "Toyo EVO 1",
+    "fullName": "Toyo EVO 1 - blue light gold",
     "colors": [
       "blue",
       "light",
       "gold"
-    ]
+    ],
+    "file": "toyo_evo1_blue_light_gold.glb"
   },
   {
-    "name": "Toyo EVO 1 - green light red",
-    "model": "toyo_evo1_green_light_red.glb",
+    "model": "Toyo",
     "evo": 1,
+    "name": "Toyo EVO 1",
+    "fullName": "Toyo EVO 1 - green light red",
     "colors": [
       "green",
       "light",
       "red"
-    ]
+    ],
+    "file": "toyo_evo1_green_light_red.glb"
   }
 ]
