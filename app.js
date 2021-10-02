@@ -36,8 +36,10 @@ fs.readdir(exportsFolder, (err, files) => {
 let cars = [];
 
 fs.readdir(carsFolder, (err, files) => {
+  let count = 0;
   files.forEach(file => {
     if(file != '.DS_Store')  {
+      count++;
       gltfIE.ConvertGltfToGLB(carsFolder + file + '/' + file + '.gltf', exportsFolder + file + '.glb');
       cars.push({
         model: createModel(file),
@@ -50,9 +52,14 @@ fs.readdir(carsFolder, (err, files) => {
     }
   });
 
+  console.log(count + ' cars converted and exported in the exports folder');
+
   // Create JSON list
   let data = JSON.stringify(cars, null, 2);
   fs.writeFileSync('cars.json', data);
+
+  console.log('cars.json created');
+
 });
 
 function createModel(file){
