@@ -68,7 +68,7 @@ function createModel(file){
   let t = 0;
 
   name = name.replace(/_/g, match => ++t === 2 ? ' - ' : match)
-  name = name.charAt(0).toUpperCase() + name.replaceAll('_', ' ').slice(1);
+  name = name.charAt(0).toUpperCase() + name.replace(/_/g, ' ').slice(1);
 
   return name
 }
@@ -79,8 +79,8 @@ function createName(file){
   let t = 0;
 
   name = name.replace(/_/g, match => ++t === 2 ? ' - ' : match)
-  name = name.replaceAll('_', ' ');
-  name = name.charAt(0).toUpperCase() + name.replaceAll('_', ' ').slice(1);
+  name = name.replace(/_/g, ' ');
+  name = name.charAt(0).toUpperCase() + name.replace(/_/g, ' ').slice(1);
   name = name.replace('evo', 'evo '.toUpperCase());
 
   return name
@@ -91,8 +91,8 @@ function createFullName(file){
   let t = 0;
 
   name = name.replace(/_/g, match => ++t === 2 ? ' - ' : match)
-  name = name.replaceAll('_', ' ');
-  name = name.charAt(0).toUpperCase() + name.replaceAll('_', ' ').slice(1);
+  name = name.replace(/_/g, ' ');
+  name = name.charAt(0).toUpperCase() + name.replace(/_/g, ' ').slice(1);
   name = name.replace('evo', 'evo '.toUpperCase());
 
   return name
