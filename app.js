@@ -5,6 +5,9 @@ const path = require('path');
 const carsFolder = './cars/';
 const exportsFolder = './exports/';
 
+const glbsDirectory = exportsFolder + 'glbs/';
+const pngsDirectory = exportsFolder + 'pngs/';
+
 // Check if cars folder exist, and create if if not.
 if (!fs.existsSync(carsFolder)){
   fs.mkdirSync(carsFolder);
@@ -19,35 +22,63 @@ if (!fs.existsSync(exportsFolder)){
 // Creates Exports folders
 if (!fs.existsSync(exportsFolder)){
   fs.mkdirSync(exportsFolder);
+
 }
 
 // Empty export directory
-fs.readdir(exportsFolder, (err, files) => {
-  if (err) throw err;
+// fs.readdir(exportsFolder, (err, files) => {
+//   if (err) throw err;
 
-  for (const file of files) {
-    fs.unlink(path.join(exportsFolder, file), err => {
-      if (err) throw err;
-    });
-  }
-});
+//   for (const file of files) {
+//     fs.unlink(path.join(exportsFolder, file), err => {
+//       if (err) throw err;
+//     });
+//   }
+// });
+
+// Create glb and png directory
+fs.mkdirSync(glbsDirectory);
+fs.mkdirSync(pngsDirectory);
 
 // Create glb file for each glt
 let cars = [];
 
 fs.readdir(carsFolder, (err, files) => {
   let count = 0;
+
+
+
   files.forEach(file => {
     if(file != '.DS_Store')  {
+      // if(count >= 10) return;
       count++;
-      gltfIE.ConvertGltfToGLB(carsFolder + file + '/' + file + '.gltf', exportsFolder + file + '.glb');
+
+      //Create folder
+     // fs.mkdirSync(exportsFolder + file + '/');
+
+      // Copy file
+      console.log(file);
+      gltfIE.ConvertGltfToGLB(carsFolder + file + '/' + file +'.gltf', glbsDirectory + file + '.glb');
+
+      // // Copy png
+      fs.copyFile(carsFolder + file + '/' + file +'.png', pngsDirectory + file + '.png', (err) => {
+        if (err) throw err;
+      });
+
+      //  // Copy png
+      //  fs.copyFile(carsFolder + file + '/' + file +'.png', exportsFolder  + file + '/' + file + '.png', (err) => {
+      //   if (err) throw err;
+      // });
+
       cars.push({
-        model: createModel(file),
-        evo: parseInt(file.split('_')[1].replace('evo', '')),
-        name: createName(file),
-        fullName: createFullName(file),
-        colors: file.split('_').slice(2),
-        file: file + '.glb'
+        // model: createModel(file),
+        // evo: parseInt(file.split('_')[1].replace('evo', '')),
+        name: file,
+        file: '/exports/glbs/' + file + '.glb',
+        preview: '/exports/pngs/'+ file + '.png',
+        // fullName: createFullName(file),
+        // colors: file.split('_').slice(2),
+        // file: file + '.glb'
       })
     }
   });
@@ -58,7 +89,7 @@ fs.readdir(carsFolder, (err, files) => {
   let data = JSON.stringify(cars, null, 2);
   fs.writeFileSync('cars.json', data);
 
-  console.log('cars.json created');
+  // console.log('cars.json created');
 
 });
 

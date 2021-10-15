@@ -1,0 +1,5228 @@
+{
+    "asset": {
+        "copyright": "Alpha League Racing",
+        "generator": "maya2glTF v1.4.0 3d7ba8eaf03e",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0,
+    "nodes": [
+        {
+            "name": "Muscle_Evolution4_grp",
+            "children": [
+                42,
+                41,
+                40,
+                39,
+                38,
+                37,
+                36,
+                35,
+                34,
+                33,
+                32,
+                31,
+                30,
+                29,
+                28,
+                27,
+                26,
+                25,
+                24,
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14,
+                13,
+                12,
+                11,
+                10,
+                9,
+                8,
+                7,
+                6,
+                5,
+                4,
+                3,
+                2,
+                1
+            ]
+        },
+        {
+            "name": "evo4_tire_rf_f1_dupl",
+            "mesh": 0,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_tire_rf2_f1_dupl",
+            "mesh": 1,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_tire_lf_f1_dupl",
+            "mesh": 2,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_tire_lb_f1_dupl",
+            "mesh": 3,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_sillPartR_f1_dupl",
+            "mesh": 4,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_dupl",
+            "mesh": 5,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_dupl",
+            "mesh": 6,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_dupl",
+            "mesh": 7,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_dupl",
+            "mesh": 8,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_redbackLightR_f1_dupl",
+            "mesh": 9,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_redbackLightL_f1_dupl",
+            "mesh": 10,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_pipe4R_f1_dupl",
+            "mesh": 11,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_pipe4L_f1_dupl",
+            "mesh": 12,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_dupl",
+            "mesh": 13,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_dupl",
+            "mesh": 14,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_dupl",
+            "mesh": 15,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_dupl",
+            "mesh": 16,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassfR_f1_dupl",
+            "mesh": 17,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassfL_f1_dupl",
+            "mesh": 18,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glasseBigR_f1_dupl",
+            "mesh": 19,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glasseBigL_f1_dupl",
+            "mesh": 20,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassbR_f1_dupl",
+            "mesh": 21,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_glassbL_f1_dupl",
+            "mesh": 22,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_front_up_grid_f1_dupl",
+            "mesh": 23,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_front_down_grid_f1_dupl",
+            "mesh": 24,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_frontGlass_f1_dupl",
+            "mesh": 25,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_dupl",
+            "mesh": 26,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_dupl",
+            "mesh": 27,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_dupl",
+            "mesh": 28,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_dupl",
+            "mesh": 29,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_dupl",
+            "mesh": 30,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_dupl",
+            "mesh": 31,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_engine_f1_dupl",
+            "mesh": 32,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_dupl",
+            "mesh": 33,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_dupl",
+            "mesh": 34,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_blockBackLights_f1_dupl",
+            "mesh": 35,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_airtrap_r_f1_dupl",
+            "mesh": 36,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_airtrap_l_f1_dupl",
+            "mesh": 37,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_dupl",
+            "mesh": 38,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_Spoiler4_f1_dupl",
+            "mesh": 39,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_GroundBody1_f1_dupl",
+            "mesh": 40,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_dupl",
+            "mesh": 41,
+            "translation": [
+                47.388275146484378,
+                0.0000076289998105494309,
+                91.24752044677736
+            ]
+        }
+    ],
+    "meshes": [
+        {
+            "name": "evo4_tire_rf_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 2,
+                        "TANGENT": 3,
+                        "TEXCOORD_0": 4,
+                        "TEXCOORD_1": 5
+                    },
+                    "indices": 0,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 7,
+                        "POSITION": 8,
+                        "TANGENT": 9,
+                        "TEXCOORD_0": 10,
+                        "TEXCOORD_1": 11
+                    },
+                    "indices": 6,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 13,
+                        "POSITION": 14,
+                        "TANGENT": 15,
+                        "TEXCOORD_0": 16,
+                        "TEXCOORD_1": 17
+                    },
+                    "indices": 12,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 19,
+                        "POSITION": 20,
+                        "TANGENT": 21,
+                        "TEXCOORD_0": 22,
+                        "TEXCOORD_1": 23
+                    },
+                    "indices": 18,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "evo4_sillPartR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 25,
+                        "POSITION": 26,
+                        "TANGENT": 27,
+                        "TEXCOORD_0": 28
+                    },
+                    "indices": 24,
+                    "mode": 4,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 30,
+                        "POSITION": 31,
+                        "TANGENT": 32,
+                        "TEXCOORD_0": 33,
+                        "TEXCOORD_1": 34
+                    },
+                    "indices": 29,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 36,
+                        "POSITION": 37,
+                        "TANGENT": 38,
+                        "TEXCOORD_0": 39,
+                        "TEXCOORD_1": 40
+                    },
+                    "indices": 35,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 42,
+                        "POSITION": 43,
+                        "TANGENT": 44,
+                        "TEXCOORD_0": 45,
+                        "TEXCOORD_1": 46
+                    },
+                    "indices": 41,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 48,
+                        "POSITION": 49,
+                        "TANGENT": 50,
+                        "TEXCOORD_0": 51,
+                        "TEXCOORD_1": 52
+                    },
+                    "indices": 47,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_redbackLightR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 54,
+                        "POSITION": 55,
+                        "TANGENT": 56,
+                        "TEXCOORD_0": 57
+                    },
+                    "indices": 53,
+                    "mode": 4,
+                    "material": 3
+                }
+            ]
+        },
+        {
+            "name": "evo4_redbackLightL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 59,
+                        "POSITION": 60,
+                        "TANGENT": 61,
+                        "TEXCOORD_0": 62
+                    },
+                    "indices": 58,
+                    "mode": 4,
+                    "material": 3
+                }
+            ]
+        },
+        {
+            "name": "evo4_pipe4R_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 64,
+                        "POSITION": 65,
+                        "TANGENT": 66,
+                        "TEXCOORD_0": 67
+                    },
+                    "indices": 63,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_pipe4L_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 69,
+                        "POSITION": 70,
+                        "TANGENT": 71,
+                        "TEXCOORD_0": 72
+                    },
+                    "indices": 68,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 74,
+                        "POSITION": 75,
+                        "TANGENT": 76,
+                        "TEXCOORD_0": 77
+                    },
+                    "indices": 73,
+                    "mode": 4,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 79,
+                        "POSITION": 80,
+                        "TANGENT": 81,
+                        "TEXCOORD_0": 82
+                    },
+                    "indices": 78,
+                    "mode": 4,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 84,
+                        "POSITION": 85,
+                        "TANGENT": 86,
+                        "TEXCOORD_0": 87
+                    },
+                    "indices": 83,
+                    "mode": 4,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 89,
+                        "POSITION": 90,
+                        "TANGENT": 91,
+                        "TEXCOORD_0": 92
+                    },
+                    "indices": 88,
+                    "mode": 4,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassfR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 94,
+                        "POSITION": 95,
+                        "TANGENT": 96,
+                        "TEXCOORD_0": 97
+                    },
+                    "indices": 93,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassfL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 99,
+                        "POSITION": 100,
+                        "TANGENT": 101,
+                        "TEXCOORD_0": 102
+                    },
+                    "indices": 98,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_glasseBigR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 104,
+                        "POSITION": 105,
+                        "TANGENT": 106,
+                        "TEXCOORD_0": 107
+                    },
+                    "indices": 103,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_glasseBigL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 109,
+                        "POSITION": 110,
+                        "TANGENT": 111,
+                        "TEXCOORD_0": 112
+                    },
+                    "indices": 108,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassbR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 114,
+                        "POSITION": 115,
+                        "TANGENT": 116,
+                        "TEXCOORD_0": 117
+                    },
+                    "indices": 113,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_glassbL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 119,
+                        "POSITION": 120,
+                        "TANGENT": 121,
+                        "TEXCOORD_0": 122
+                    },
+                    "indices": 118,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_front_up_grid_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 124,
+                        "POSITION": 125,
+                        "TANGENT": 126,
+                        "TEXCOORD_0": 127
+                    },
+                    "indices": 123,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_front_down_grid_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 129,
+                        "POSITION": 130,
+                        "TANGENT": 131,
+                        "TEXCOORD_0": 132
+                    },
+                    "indices": 128,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_frontGlass_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 134,
+                        "POSITION": 135,
+                        "TANGENT": 136,
+                        "TEXCOORD_0": 137
+                    },
+                    "indices": 133,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 139,
+                        "POSITION": 140,
+                        "TANGENT": 141,
+                        "TEXCOORD_0": 142
+                    },
+                    "indices": 138,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 144,
+                        "POSITION": 145,
+                        "TANGENT": 146,
+                        "TEXCOORD_0": 147
+                    },
+                    "indices": 143,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 149,
+                        "POSITION": 150,
+                        "TANGENT": 151,
+                        "TEXCOORD_0": 152,
+                        "TEXCOORD_1": 153
+                    },
+                    "indices": 148,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 155,
+                        "POSITION": 156,
+                        "TANGENT": 157,
+                        "TEXCOORD_0": 158,
+                        "TEXCOORD_1": 159
+                    },
+                    "indices": 154,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 161,
+                        "POSITION": 162,
+                        "TANGENT": 163,
+                        "TEXCOORD_0": 164,
+                        "TEXCOORD_1": 165
+                    },
+                    "indices": 160,
+                    "mode": 4,
+                    "material": 7
+                }
+            ]
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 167,
+                        "POSITION": 168,
+                        "TANGENT": 169,
+                        "TEXCOORD_0": 170,
+                        "TEXCOORD_1": 171
+                    },
+                    "indices": 166,
+                    "mode": 4,
+                    "material": 7
+                }
+            ]
+        },
+        {
+            "name": "evo4_engine_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 173,
+                        "POSITION": 174,
+                        "TANGENT": 175,
+                        "TEXCOORD_0": 176
+                    },
+                    "indices": 172,
+                    "mode": 4,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 178,
+                        "POSITION": 179,
+                        "TANGENT": 180,
+                        "TEXCOORD_0": 181
+                    },
+                    "indices": 177,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 183,
+                        "POSITION": 184,
+                        "TANGENT": 185,
+                        "TEXCOORD_0": 186
+                    },
+                    "indices": 182,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_blockBackLights_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 188,
+                        "POSITION": 189,
+                        "TANGENT": 190,
+                        "TEXCOORD_0": 191
+                    },
+                    "indices": 187,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_airtrap_r_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 193,
+                        "POSITION": 194,
+                        "TANGENT": 195,
+                        "TEXCOORD_0": 196
+                    },
+                    "indices": 192,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_airtrap_l_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 198,
+                        "POSITION": 199,
+                        "TANGENT": 200,
+                        "TEXCOORD_0": 201
+                    },
+                    "indices": 197,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 203,
+                        "POSITION": 204,
+                        "TANGENT": 205,
+                        "TEXCOORD_0": 206
+                    },
+                    "indices": 202,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_Spoiler4_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 208,
+                        "POSITION": 209,
+                        "TANGENT": 210,
+                        "TEXCOORD_0": 211
+                    },
+                    "indices": 207,
+                    "mode": 4,
+                    "material": 6
+                }
+            ]
+        },
+        {
+            "name": "evo4_GroundBody1_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 213,
+                        "POSITION": 214,
+                        "TANGENT": 215,
+                        "TEXCOORD_0": 216
+                    },
+                    "indices": 212,
+                    "mode": 4,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_duplShape",
+            "extras": {
+                "targetNames": []
+            },
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 218,
+                        "POSITION": 219,
+                        "TANGENT": 220,
+                        "TEXCOORD_0": 221
+                    },
+                    "indices": 217,
+                    "mode": 4,
+                    "material": 5
+                }
+            ]
+        }
+    ],
+    "materials": [
+        {
+            "name": "tire_black",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "shd_map",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.800000011920929,
+                    1.0
+                ],
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "shd_lightGrey",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.3251613080501557,
+                    0.3251613080501557,
+                    0.3251613080501557,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "backlights",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.30239999294281008,
+                    0.0465695969760418,
+                    0.0465695969760418,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "frontLights",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.800000011920929,
+                    0.225600004196167,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "shd_blue",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.800000011920929,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "shd_orange",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.800000011920929,
+                    0.5175999999046326,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        },
+        {
+            "name": "lambert1",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    0.4000000059604645,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 1.0
+            }
+        }
+    ],
+    "textures": [
+        {
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "images": [
+        {
+            "uri": "wave_black_green.png"
+        }
+    ],
+    "samplers": [
+        {
+            "magFilter": 9729,
+            "minFilter": 9987,
+            "wrapS": 10497,
+            "wrapT": 10497
+        }
+    ],
+    "accessors": [
+        {
+            "name": "evo4_tire_rf_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5123,
+            "count": 1080,
+            "max": [
+                267
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_tire_rf_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                1.0,
+                0.9848079085350036
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.9848081469535828
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_rf_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 3216,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                -88.40116882324219,
+                59.50156402587891,
+                -161.1935577392578
+            ],
+            "min": [
+                -120.16099548339844,
+                -0.0000076289998105494309,
+                -219.79112243652345
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_rf_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                0.28576964139938357,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.9570370316505432,
+                -0.2857675850391388,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_tire_rf_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9980079531669616,
+                0.9981353282928468
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06580197811126709
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_rf_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 2144,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9831891655921936,
+                0.20550775527954105
+            ],
+            "min": [
+                0.791831910610199,
+                0.013734161853790284
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 2160,
+            "componentType": 5123,
+            "count": 1080,
+            "max": [
+                267
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 6432,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                1.0,
+                0.9848079085350036
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.9848081469535828
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 9648,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                -88.40116882324219,
+                59.50156402587891,
+                29.298782348632817
+            ],
+            "min": [
+                -120.16099548339844,
+                -0.0000076289998105494309,
+                -29.298782348632817
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 4288,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                0.28576985001564028,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.9570370316505432,
+                -0.2857676446437836,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 4288,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9980079531669616,
+                0.9981353282928468
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06580203771591187
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_rf2_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 6432,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9831891655921936,
+                0.20550775527954105
+            ],
+            "min": [
+                0.791831910610199,
+                0.013734161853790284
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 4320,
+            "componentType": 5123,
+            "count": 1080,
+            "max": [
+                267
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 12864,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                1.0,
+                0.9848079085350036
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.9848081469535828
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 16080,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                25.38433837890625,
+                59.50156402587891,
+                29.298782348632817
+            ],
+            "min": [
+                -6.37548828125,
+                -0.0000076289998105494309,
+                -29.298782348632817
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 8576,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                0.285767674446106,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.9570370316505432,
+                -0.28576985001564028,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 8576,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9980079531669616,
+                0.9981353282928468
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06580179929733277
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_lf_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 10720,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9831891655921936,
+                0.20550775527954105
+            ],
+            "min": [
+                0.791831910610199,
+                0.013734161853790284
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 6480,
+            "componentType": 5123,
+            "count": 1080,
+            "max": [
+                267
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 19296,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                1.0,
+                0.9848079085350036
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.9848081469535828
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 22512,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                25.38433837890625,
+                59.50156402587891,
+                -161.1935577392578
+            ],
+            "min": [
+                -6.37548828125,
+                -0.0000076289998105494309,
+                -219.79112243652345
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 12864,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                1.0,
+                0.285767525434494,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.9570369720458984,
+                -0.2857697010040283,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 12864,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9980079531669616,
+                0.9981353282928468
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06580179929733277
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_tire_lb_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 15008,
+            "componentType": 5126,
+            "count": 268,
+            "max": [
+                0.9831891655921936,
+                0.20550775527954105
+            ],
+            "min": [
+                0.791831910610199,
+                0.013734161853790284
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_sillPartR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 8640,
+            "componentType": 5123,
+            "count": 5142,
+            "max": [
+                1393
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_sillPartR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 25728,
+            "componentType": 5126,
+            "count": 1394,
+            "max": [
+                1.0,
+                1.0,
+                0.9999989867210388
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.999955713748932
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_sillPartR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 42456,
+            "componentType": 5126,
+            "count": 1394,
+            "max": [
+                28.6248779296875,
+                111.67959594726564,
+                70.47628021240235
+            ],
+            "min": [
+                -123.40155029296877,
+                14.996528625488282,
+                -250.12149047851566
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_sillPartR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 17152,
+            "componentType": 5126,
+            "count": 1394,
+            "max": [
+                1.0,
+                0.9999278783798218,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -0.999857485294342,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_sillPartR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 17152,
+            "componentType": 5126,
+            "count": 1394,
+            "max": [
+                0.8858635425567627,
+                0.987509310245514
+            ],
+            "min": [
+                0.027017831802368165,
+                0.17162317037582398
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 18924,
+            "componentType": 5123,
+            "count": 990,
+            "max": [
+                509
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 59184,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 65304,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                -90.02287292480469,
+                46.54425811767578,
+                16.56134033203125
+            ],
+            "min": [
+                -118.81846618652344,
+                12.707344055175782,
+                -16.761474609375
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 39456,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.6549052000045776,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 28304,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                0.9980080127716065,
+                0.9980830550193788
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.03962075710296631
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_rf_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 32384,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 20904,
+            "componentType": 5123,
+            "count": 990,
+            "max": [
+                509
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 71424,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 77544,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                -90.02287292480469,
+                46.54425811767578,
+                -173.93099975585938
+            ],
+            "min": [
+                -118.81846618652344,
+                12.707344055175782,
+                -207.25381469726566
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 47616,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.6549040675163269,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 36464,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                0.9980080127716065,
+                0.9980830550193788
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.03962081670761109
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_rb_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 40544,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 22884,
+            "componentType": 5123,
+            "count": 990,
+            "max": [
+                509
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 83664,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 89784,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                24.04177856445313,
+                46.54425811767578,
+                16.56134033203125
+            ],
+            "min": [
+                -4.753814697265625,
+                12.707344055175782,
+                -16.761474609375
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 55776,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.6549052596092224,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 44624,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                0.9980080723762512,
+                0.9980830550193788
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.03962099552154541
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_lf_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 48704,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 24864,
+            "componentType": 5123,
+            "count": 990,
+            "max": [
+                509
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 95904,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 102024,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                24.04177856445313,
+                46.54425811767578,
+                -173.93099975585938
+            ],
+            "min": [
+                -4.753814697265625,
+                12.707344055175782,
+                -207.25381469726566
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 63936,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.654904305934906,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 52784,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                0.9980080723762512,
+                0.9980830550193788
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.03962141275405884
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_rim_A_lb_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 56864,
+            "componentType": 5126,
+            "count": 510,
+            "max": [
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_redbackLightR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 26844,
+            "componentType": 5123,
+            "count": 12,
+            "max": [
+                5
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_redbackLightR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 108144,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                -0.03287866711616516,
+                0.12896578013896946,
+                -0.943109095096588
+            ],
+            "min": [
+                -0.3064527213573456,
+                0.07797402888536453,
+                -0.9964131712913512
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_redbackLightR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 108216,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                -70.38253784179688,
+                81.21208953857422,
+                -230.9349365234375
+            ],
+            "min": [
+                -111.31158447265624,
+                75.52379608154297,
+                -237.7754058837891
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_redbackLightR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 72096,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.05908413976430893,
+                -0.9862918853759766,
+                -0.07801596075296402,
+                1.0
+            ],
+            "min": [
+                -0.005910525098443031,
+                -0.9969521760940552,
+                -0.15406955778598786,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_redbackLightR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 60944,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.1387031227350235,
+                0.9980079531669616
+            ],
+            "min": [
+                0.00027685301029123366,
+                0.001992047065868974
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_redbackLightL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 26868,
+            "componentType": 5123,
+            "count": 12,
+            "max": [
+                5
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_redbackLightL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 108288,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.3064519464969635,
+                0.12896287441253666,
+                -0.9431096315383912
+            ],
+            "min": [
+                0.03287500888109207,
+                0.07774568349123001,
+                -0.9964311122894288
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_redbackLightL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 108360,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                16.534942626953126,
+                81.20674896240235,
+                -230.9349365234375
+            ],
+            "min": [
+                -24.3873291015625,
+                75.52379608154297,
+                -237.77374267578129
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_redbackLightL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 72192,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.005914758890867233,
+                -0.98629230260849,
+                -0.07778747379779816,
+                1.0
+            ],
+            "min": [
+                -0.05908466130495072,
+                -0.9969699382781982,
+                -0.15406659245491029,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_redbackLightL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 60992,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.13859492540359498,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0002766370016615838,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_pipe4R_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 26892,
+            "componentType": 5123,
+            "count": 1008,
+            "max": [
+                403
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_pipe4R_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 108432,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                0.999948799610138,
+                0.999601423740387,
+                1.0
+            ],
+            "min": [
+                -0.9999488592147828,
+                -0.9996013641357422,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_pipe4R_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 113280,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                -63.33535766601563,
+                58.09976959228516,
+                -199.253662109375
+            ],
+            "min": [
+                -93.9511260986328,
+                25.844337463378908,
+                -260.11865234375
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_pipe4R_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 72288,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                1.0,
+                0.9999488592147828,
+                0.9409654140472412,
+                1.0
+            ],
+            "min": [
+                -0.8716700673103333,
+                -1.0,
+                -0.940970540046692,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_pipe4R_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 61040,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                0.94863361120224,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0018934799591079357,
+                0.0019919280894100668
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_pipe4L_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 28908,
+            "componentType": 5123,
+            "count": 1008,
+            "max": [
+                403
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_pipe4L_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 118128,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                0.9999488592147828,
+                0.999601423740387,
+                1.0
+            ],
+            "min": [
+                -0.9999488592147828,
+                -0.999601423740387,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_pipe4L_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 122976,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                -1.173065185546875,
+                58.09976959228516,
+                -199.253662109375
+            ],
+            "min": [
+                -28.166229248046876,
+                25.844337463378908,
+                -260.11865234375
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_pipe4L_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 78752,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                1.0,
+                0.9999488592147828,
+                0.9409655332565308,
+                1.0
+            ],
+            "min": [
+                -0.871669590473175,
+                -1.0,
+                -0.9409703016281128,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_pipe4L_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 64272,
+            "componentType": 5126,
+            "count": 404,
+            "max": [
+                0.9150581955909728,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0018264639656990769,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 30924,
+            "componentType": 5123,
+            "count": 36,
+            "max": [
+                23
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 127824,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 128112,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                -91.76033020019533,
+                69.39517974853516,
+                71.09890747070313
+            ],
+            "min": [
+                -105.790283203125,
+                57.81140899658203,
+                70.94685363769531
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 85216,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                0.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassfrontlitghR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 67504,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                0.8194466829299927,
+                0.9980079531669616
+            ],
+            "min": [
+                0.001635622000321746,
+                0.0019919280894100668
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 30996,
+            "componentType": 5123,
+            "count": 36,
+            "max": [
+                23
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 128400,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 128688,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                10.96875,
+                69.39517974853516,
+                71.09890747070313
+            ],
+            "min": [
+                -3.061187744140625,
+                57.81140899658203,
+                70.94685363769531
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 85600,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                0.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassfrontlitghL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 67696,
+            "componentType": 5126,
+            "count": 24,
+            "max": [
+                0.8194466829299927,
+                0.9980079531669616
+            ],
+            "min": [
+                0.001635622000321746,
+                0.0019919280894100668
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31068,
+            "componentType": 5123,
+            "count": 45,
+            "max": [
+                15
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 128976,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                4.909999802293896e-7,
+                0.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 129168,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                -99.10017395019533,
+                37.88599395751953,
+                75.64871978759766
+            ],
+            "min": [
+                -116.49342346191406,
+                20.58800506591797,
+                75.64871978759766
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 85984,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                0.000003854000169667415,
+                1.0,
+                0.0,
+                1.0
+            ],
+            "min": [
+                -0.000004833999810216483,
+                1.0,
+                0.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 67888,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                0.9925438165664672,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0019811249803751709,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31158,
+            "componentType": 5123,
+            "count": 45,
+            "max": [
+                15
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 129360,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                4.909999802293896e-7,
+                0.0,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 129552,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                20.75418090820313,
+                37.88599395751953,
+                75.64871978759766
+            ],
+            "min": [
+                3.360931396484375,
+                20.58800506591797,
+                75.64871978759766
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86240,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                0.0000019389999579289,
+                1.0,
+                0.0,
+                1.0
+            ],
+            "min": [
+                -0.000002453999968565768,
+                1.0,
+                0.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassfrontlitghDownL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68016,
+            "componentType": 5126,
+            "count": 16,
+            "max": [
+                0.9925391674041748,
+                0.9980079531669616
+            ],
+            "min": [
+                0.001981115899980068,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassfR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31248,
+            "componentType": 5123,
+            "count": 9,
+            "max": [
+                4
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassfR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 129744,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                -0.9442331194877625,
+                0.3285202085971832,
+                -0.022324303165078164
+            ],
+            "min": [
+                -0.9442331790924072,
+                0.3285202085971832,
+                -0.022324305027723314
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 129804,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                -99.80690002441406,
+                98.34998321533205,
+                -40.01958084106445
+            ],
+            "min": [
+                -108.9163055419922,
+                74.05437469482422,
+                -68.87432861328125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86496,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                0.32860714197158816,
+                0.944474995136261,
+                0.0009467650088481604,
+                1.0
+            ],
+            "min": [
+                0.0,
+                0.0,
+                -0.00023949399474076927,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassfR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68144,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                0.8403207659721375,
+                0.9980079531669616
+            ],
+            "min": [
+                0.001677287044003606,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassfL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31266,
+            "componentType": 5123,
+            "count": 9,
+            "max": [
+                4
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassfL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 129864,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                0.944233238697052,
+                0.3285200893878937,
+                -0.022324305027723314
+            ],
+            "min": [
+                0.944233238697052,
+                0.3285200595855713,
+                -0.02232430689036846
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 129924,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                14.1396484375,
+                98.34998321533205,
+                -40.01958084106445
+            ],
+            "min": [
+                5.030242919921875,
+                74.05437469482422,
+                -68.87432861328125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassfL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86576,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                0.0,
+                0.9444750547409058,
+                0.000946761982049793,
+                1.0
+            ],
+            "min": [
+                -0.3286069929599762,
+                0.0,
+                -0.0002394970069872215,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassfL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68184,
+            "componentType": 5126,
+            "count": 5,
+            "max": [
+                0.8403207659721375,
+                0.9980079531669616
+            ],
+            "min": [
+                0.001677287044003606,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glasseBigR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31284,
+            "componentType": 5123,
+            "count": 18,
+            "max": [
+                7
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glasseBigR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 129984,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                -0.9573408961296082,
+                0.2889595627784729,
+                0.002079518046230078
+            ],
+            "min": [
+                -0.9586808085441588,
+                0.2844385802745819,
+                -0.005078623071312904
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glasseBigR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 130080,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                -100.56251525878906,
+                103.39032745361328,
+                -70.22834777832031
+            ],
+            "min": [
+                -109.68511962890624,
+                73.31993865966797,
+                -149.12823486328126
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glasseBigR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86656,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                0.2889596819877625,
+                0.9586932063102722,
+                0.000019040000552195129,
+                1.0
+            ],
+            "min": [
+                0.2844421565532685,
+                0.9573413133621216,
+                -0.000007026999810477719,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glasseBigR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68224,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                0.38036176562309267,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0007592050242237747,
+                0.001992047065868974
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glasseBigL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31320,
+            "componentType": 5123,
+            "count": 18,
+            "max": [
+                7
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glasseBigL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 130176,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                0.9586808085441588,
+                0.2889597713947296,
+                0.0020794461015611889
+            ],
+            "min": [
+                0.9573408365249634,
+                0.28443866968154909,
+                -0.005079228896647692
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glasseBigL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 130272,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                14.908477783203124,
+                103.39032745361328,
+                -70.22834777832031
+            ],
+            "min": [
+                5.785858154296875,
+                73.31993865966797,
+                -149.12823486328126
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glasseBigL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86784,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                -0.2844422459602356,
+                0.9586932063102722,
+                0.000019098999473499139,
+                1.0
+            ],
+            "min": [
+                -0.2889599204063416,
+                0.957341194152832,
+                -0.00000696300003255601,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glasseBigL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68288,
+            "componentType": 5126,
+            "count": 8,
+            "max": [
+                0.38036176562309267,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0007592050242237747,
+                0.001992047065868974
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassbR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31356,
+            "componentType": 5123,
+            "count": 6,
+            "max": [
+                3
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassbR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 130368,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                -0.9393782019615172,
+                0.3370383083820343,
+                0.06303855031728745
+            ],
+            "min": [
+                -0.939378261566162,
+                0.3370382487773895,
+                0.06303854286670685
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassbR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 130416,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                -99.0312957763672,
+                98.97075653076172,
+                -141.3586883544922
+            ],
+            "min": [
+                -108.49024963378906,
+                75.5224838256836,
+                -170.87901306152345
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassbR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86912,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                0.33778029680252077,
+                0.941283404827118,
+                0.0011869570007547737,
+                1.0
+            ],
+            "min": [
+                0.3376135230064392,
+                0.941224217414856,
+                -0.0016145759727805853,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassbR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68352,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                0.7927284836769104,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0015822920249775053,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_glassbL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31368,
+            "componentType": 5123,
+            "count": 6,
+            "max": [
+                3
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_glassbL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 130464,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                0.9393784999847412,
+                0.33703741431236269,
+                0.06303849071264267
+            ],
+            "min": [
+                0.9393784403800964,
+                0.33703741431236269,
+                0.06303848326206207
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassbL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 130512,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                13.713592529296877,
+                98.97075653076172,
+                -141.3586883544922
+            ],
+            "min": [
+                4.254638671875,
+                75.5224838256836,
+                -170.87901306152345
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_glassbL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 86976,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                -0.33761265873909,
+                0.9412837624549866,
+                0.001187011948786676,
+                1.0
+            ],
+            "min": [
+                -0.3377794027328491,
+                0.9412245750427246,
+                -0.001614628010429442,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_glassbL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68384,
+            "componentType": 5126,
+            "count": 4,
+            "max": [
+                0.7927284836769104,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0015822920249775053,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_front_up_grid_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31380,
+            "componentType": 5123,
+            "count": 300,
+            "max": [
+                159
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_front_up_grid_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 130560,
+            "componentType": 5126,
+            "count": 160,
+            "max": [
+                1.0,
+                0.9610772728919984,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -0.9998637437820436,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_front_up_grid_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 132480,
+            "componentType": 5126,
+            "count": 160,
+            "max": [
+                -2.969757080078125,
+                69.73282623291016,
+                72.76931762695313
+            ],
+            "min": [
+                -91.8517608642578,
+                61.297996520996097,
+                69.65338134765625
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_front_up_grid_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 87040,
+            "componentType": 5126,
+            "count": 160,
+            "max": [
+                0.0,
+                1.0,
+                0.9998636841773988,
+                1.0
+            ],
+            "min": [
+                0.0,
+                -1.0,
+                -0.9610772132873536,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_front_up_grid_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 68416,
+            "componentType": 5126,
+            "count": 160,
+            "max": [
+                0.7649461627006531,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0015268389834091068,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_front_down_grid_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 31980,
+            "componentType": 5123,
+            "count": 150,
+            "max": [
+                99
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_front_down_grid_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 134400,
+            "componentType": 5126,
+            "count": 100,
+            "max": [
+                1.0,
+                0.9610773921012878,
+                1.0
+            ],
+            "min": [
+                0.0,
+                -0.9998637437820436,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_front_down_grid_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 135600,
+            "componentType": 5126,
+            "count": 100,
+            "max": [
+                -0.8592529296875,
+                35.81183624267578,
+                68.96327209472656
+            ],
+            "min": [
+                -94.86541748046877,
+                22.747032165527345,
+                64.1369857788086
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_front_down_grid_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 89600,
+            "componentType": 5126,
+            "count": 100,
+            "max": [
+                0.0,
+                1.0,
+                0.9998636841773988,
+                1.0
+            ],
+            "min": [
+                0.0,
+                -1.0,
+                -0.9610773921012878,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_front_down_grid_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 69696,
+            "componentType": 5126,
+            "count": 100,
+            "max": [
+                0.9019469022750856,
+                0.9980079531669616
+            ],
+            "min": [
+                0.001800292986445129,
+                0.0019919280894100668
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_frontGlass_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 32280,
+            "componentType": 5123,
+            "count": 72,
+            "max": [
+                20
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_frontGlass_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 136800,
+            "componentType": 5126,
+            "count": 21,
+            "max": [
+                0.31152117252349856,
+                0.8276243209838867,
+                0.578407347202301
+            ],
+            "min": [
+                -0.31152117252349856,
+                0.8153435587882996,
+                0.48802605271339419
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_frontGlass_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 137052,
+            "componentType": 5126,
+            "count": 21,
+            "max": [
+                15.346435546875,
+                106.2480239868164,
+                -20.69702911376953
+            ],
+            "min": [
+                -110.1230926513672,
+                76.10974884033203,
+                -66.81095123291016
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_frontGlass_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 91200,
+            "componentType": 5126,
+            "count": 21,
+            "max": [
+                0.002711852081120014,
+                0.578407347202301,
+                -0.8157480955123901,
+                1.0
+            ],
+            "min": [
+                -0.002712385961785913,
+                0.5137738585472107,
+                -0.8579254746437073,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_frontGlass_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 70496,
+            "componentType": 5126,
+            "count": 21,
+            "max": [
+                0.3667984902858734,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0007321329903788865,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 32424,
+            "componentType": 5123,
+            "count": 576,
+            "max": [
+                357
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 137304,
+            "componentType": 5126,
+            "count": 358,
+            "max": [
+                0.9999759793281556,
+                0.9999924302101136,
+                0.9999923706054688
+            ],
+            "min": [
+                -0.9999759793281556,
+                -1.0,
+                -0.003906833939254284
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 141600,
+            "componentType": 5126,
+            "count": 358,
+            "max": [
+                20.47918701171875,
+                74.36182403564453,
+                76.00806427001953
+            ],
+            "min": [
+                -115.30070495605468,
+                52.29477691650391,
+                65.43094635009766
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 91536,
+            "componentType": 5126,
+            "count": 358,
+            "max": [
+                0.1232483983039856,
+                0.999992311000824,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.02298487722873688,
+                -0.003906833939254284,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_frontBlockGrid_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 70664,
+            "componentType": 5126,
+            "count": 358,
+            "max": [
+                0.9061572551727296,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0018086970085278152,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 33576,
+            "componentType": 5123,
+            "count": 3600,
+            "max": [
+                1249
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 145896,
+            "componentType": 5126,
+            "count": 1250,
+            "max": [
+                1.0,
+                0.9969360828399658,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -0.9999986886978148,
+                -0.9998630881309508
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 160896,
+            "componentType": 5126,
+            "count": 1250,
+            "max": [
+                35.78228759765625,
+                67.75981903076172,
+                73.64210510253906
+            ],
+            "min": [
+                -130.5589599609375,
+                8.916549682617188,
+                -257.1459655761719
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 97264,
+            "componentType": 5126,
+            "count": 1250,
+            "max": [
+                0.9999985694885254,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.9999989867210388,
+                -0.9999371767044069,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_evo4_polySurface1_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 73528,
+            "componentType": 5126,
+            "count": 1250,
+            "max": [
+                0.9980078935623168,
+                0.9980185627937316
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.007285058032721281
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 40776,
+            "componentType": 5123,
+            "count": 168,
+            "max": [
+                105
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 175896,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.979680836200714,
+                0.9764620661735536,
+                0.9914918541908264
+            ],
+            "min": [
+                -0.9340581297874452,
+                -0.9699463248252868,
+                -0.9994919300079346
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 177168,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                -111.2754364013672,
+                76.65901947021485,
+                -30.69891357421875
+            ],
+            "min": [
+                -135.8735504150391,
+                62.24620819091797,
+                -38.69122314453125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 117264,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.4457210302352905,
+                0.9995715022087096,
+                0.9725862741470336,
+                1.0
+            ],
+            "min": [
+                -0.005411597900092602,
+                -0.9996710419654846,
+                -0.989060640335083,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 83528,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.9980080127716065,
+                0.998133420944214
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06484854221343994
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_mirorR_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 84376,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.6382132768630981,
+                0.7516025304794312
+            ],
+            "min": [
+                0.472808450460434,
+                0.5954689979553223
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 41112,
+            "componentType": 5123,
+            "count": 168,
+            "max": [
+                105
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 178440,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.9340580105781556,
+                0.9764620065689088,
+                0.9914917945861816
+            ],
+            "min": [
+                -0.979680836200714,
+                -0.9699461460113524,
+                -0.9994919300079346
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 179712,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                41.05206298828125,
+                76.65901947021485,
+                -30.69891357421875
+            ],
+            "min": [
+                16.453948974609376,
+                62.24620819091797,
+                -38.69122314453125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 118960,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.4457206130027771,
+                0.9995715022087096,
+                0.989060640335083,
+                1.0
+            ],
+            "min": [
+                -0.007705184165388346,
+                -0.9996710419654846,
+                -0.9885238409042358,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 85224,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.9980080127716065,
+                0.998133420944214
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06484895944595337
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_mirorL_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 86072,
+            "componentType": 5126,
+            "count": 106,
+            "max": [
+                0.6382132768630981,
+                0.7516025304794312
+            ],
+            "min": [
+                0.472808450460434,
+                0.5954689979553223
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 41448,
+            "componentType": 5123,
+            "count": 12,
+            "max": [
+                5
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 180984,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.3603125512599945,
+                -0.05411463975906372,
+                -0.9275646805763244
+            ],
+            "min": [
+                0.1183895543217659,
+                -0.09898845106363297,
+                -0.9914916157722472
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 181056,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                -120.34608459472656,
+                74.35567474365235,
+                -34.63604736328125
+            ],
+            "min": [
+                -133.1242828369141,
+                64.68579864501953,
+                -37.45831298828125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 120656,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.0022002500481903559,
+                -0.994353711605072,
+                0.1061166524887085,
+                1.0
+            ],
+            "min": [
+                3.909999861662073e-7,
+                -0.9985138773918152,
+                0.05449795350432396,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 86920,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.7552400827407837,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0015074650291353465,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_glassMirorR_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 86968,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.5948495268821716,
+                0.7410951852798462
+            ],
+            "min": [
+                0.5025931596755981,
+                0.6554703712463379
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 41472,
+            "componentType": 5123,
+            "count": 12,
+            "max": [
+                5
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 181128,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                -0.1183893457055092,
+                -0.05411454662680626,
+                -0.927564799785614
+            ],
+            "min": [
+                -0.3603123724460602,
+                -0.09898843616247176,
+                -0.9914916157722472
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 181200,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                38.30279541015625,
+                74.35567474365235,
+                -34.63604736328125
+            ],
+            "min": [
+                25.52459716796875,
+                64.68579864501953,
+                -37.45831298828125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 120752,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                -3.460000073118863e-7,
+                -0.994353711605072,
+                0.1061166375875473,
+                1.0
+            ],
+            "min": [
+                -0.0022002989426255228,
+                -0.9985138773918152,
+                0.0544978566467762,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 87016,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.7552400827407837,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0015074650291353465,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_evo4_glassMirorL_f1_duplShape#0/vertices/TEXCOORD_1",
+            "bufferView": 3,
+            "byteOffset": 87064,
+            "componentType": 5126,
+            "count": 6,
+            "max": [
+                0.5948495268821716,
+                0.7410951852798462
+            ],
+            "min": [
+                0.5025931596755981,
+                0.6554703712463379
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_engine_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 41496,
+            "componentType": 5123,
+            "count": 1500,
+            "max": [
+                719
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_engine_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 181272,
+            "componentType": 5126,
+            "count": 720,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_engine_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 189912,
+            "componentType": 5126,
+            "count": 720,
+            "max": [
+                -21.74285888671875,
+                94.15087127685549,
+                42.80122375488281
+            ],
+            "min": [
+                -73.07864379882813,
+                70.21772003173828,
+                1.862945556640625
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_engine_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 120848,
+            "componentType": 5126,
+            "count": 720,
+            "max": [
+                1.0,
+                1.0,
+                0.9989294409751892,
+                1.0
+            ],
+            "min": [
+                -0.9842517971992492,
+                -1.0,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_engine_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 87112,
+            "componentType": 5126,
+            "count": 720,
+            "max": [
+                0.9499014019966126,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0018960109446197749,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 44496,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                177
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 198552,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                0.9999112486839294,
+                0.950971782207489,
+                1.0
+            ],
+            "min": [
+                -0.9999113082885742,
+                -0.9509729743003844,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 200688,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                -95.40806579589844,
+                41.09955596923828,
+                76.66889953613281
+            ],
+            "min": [
+                -120.15318298339844,
+                17.565513610839845,
+                65.37858581542969
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 132368,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                1.0,
+                1.0,
+                0.9999113082885742,
+                1.0
+            ],
+            "min": [
+                -0.9075328707695008,
+                -0.8852437138557434,
+                -0.9999112486839294,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontR_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 92872,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                0.9980080723762512,
+                0.9981639981269836
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.08016473054885864
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 45696,
+            "componentType": 5123,
+            "count": 600,
+            "max": [
+                177
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 202824,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                0.9999112486839294,
+                0.950972020626068,
+                1.0
+            ],
+            "min": [
+                -0.9999113082885742,
+                -0.9509729743003844,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 204960,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                24.4462890625,
+                41.09955596923828,
+                76.66889953613281
+            ],
+            "min": [
+                -0.298828125,
+                17.565513610839845,
+                65.37858581542969
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 135216,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                1.0,
+                1.0,
+                0.9999113082885742,
+                1.0
+            ],
+            "min": [
+                -0.9075329303741456,
+                -0.8852437734603882,
+                -0.9999112486839294,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_blockFrontLights_frontL_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 94296,
+            "componentType": 5126,
+            "count": 178,
+            "max": [
+                0.9980080723762512,
+                0.9981639981269836
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.08016431331634522
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_blockBackLights_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 46896,
+            "componentType": 5123,
+            "count": 372,
+            "max": [
+                170
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_blockBackLights_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 207096,
+            "componentType": 5126,
+            "count": 171,
+            "max": [
+                0.9703349471092224,
+                1.0,
+                0.9883991479873656
+            ],
+            "min": [
+                -0.9703351259231569,
+                -1.0,
+                -0.9967508912086488
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_blockBackLights_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 209148,
+            "componentType": 5126,
+            "count": 171,
+            "max": [
+                18.34915161132813,
+                82.72081756591797,
+                -228.64105224609376
+            ],
+            "min": [
+                -113.12582397460938,
+                42.03496551513672,
+                -245.9304962158203
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_blockBackLights_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 138064,
+            "componentType": 5126,
+            "count": 171,
+            "max": [
+                0.03661978244781494,
+                0.9883992075920104,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.47546038031578066,
+                -0.9967509508132936,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_blockBackLights_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 95720,
+            "componentType": 5126,
+            "count": 171,
+            "max": [
+                0.9980080127716065,
+                0.9981386065483092
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.06745278835296631
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_airtrap_r_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 47640,
+            "componentType": 5123,
+            "count": 198,
+            "max": [
+                95
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_airtrap_r_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 211200,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.999377965927124,
+                0.990031361579895,
+                0.9970934391021729
+            ],
+            "min": [
+                -0.999354600906372,
+                -0.9796931147575378,
+                -0.5202503204345703
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_airtrap_r_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 212352,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                -68.07821655273438,
+                120.44098663330078,
+                -66.25309753417969
+            ],
+            "min": [
+                -88.50971984863281,
+                109.44280242919922,
+                -119.18026733398438
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_airtrap_r_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 140800,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.9987677335739136,
+                0.9999991655349731,
+                0.9938974380493164,
+                1.0
+            ],
+            "min": [
+                -0.7951948642730713,
+                -0.000012788999811164104,
+                -0.9830328822135924,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_airtrap_r_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 97088,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.9953940510749816,
+                0.9980079531669616
+            ],
+            "min": [
+                0.00198681396432221,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_airtrap_l_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 48036,
+            "componentType": 5123,
+            "count": 198,
+            "max": [
+                95
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_airtrap_l_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 213504,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.9993547201156616,
+                0.9900320172309876,
+                0.9970935583114624
+            ],
+            "min": [
+                -0.999377965927124,
+                -0.9797461032867432,
+                -0.5202502608299255
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_airtrap_l_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 214656,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                -6.2667236328125,
+                120.43090057373049,
+                -66.25309753417969
+            ],
+            "min": [
+                -26.698455810546876,
+                109.44280242919922,
+                -119.18026733398438
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_airtrap_l_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 142336,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.9987677335739136,
+                0.9999991655349731,
+                0.9808527231216432,
+                1.0
+            ],
+            "min": [
+                -0.6793758273124695,
+                -0.12782713770866398,
+                -0.993896782398224,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_airtrap_l_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 97856,
+            "componentType": 5126,
+            "count": 96,
+            "max": [
+                0.9953207969665529,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0019866679795086385,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 48432,
+            "componentType": 5123,
+            "count": 204,
+            "max": [
+                107
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 215808,
+            "componentType": 5126,
+            "count": 108,
+            "max": [
+                1.0,
+                0.9999969005584716,
+                0.9999976754188538
+            ],
+            "min": [
+                -1.0,
+                -0.9999969005584716,
+                -0.9999584555625916
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 217104,
+            "componentType": 5126,
+            "count": 108,
+            "max": [
+                -23.67092895507813,
+                80.0638198852539,
+                46.11956024169922
+            ],
+            "min": [
+                -71.10572814941406,
+                75.13069915771485,
+                1.4768333435058594
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 143872,
+            "componentType": 5126,
+            "count": 108,
+            "max": [
+                0.000015206999705696944,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.000023552000129711819,
+                -0.9999583959579468,
+                -1.0,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_airtrap_front4_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 98624,
+            "componentType": 5126,
+            "count": 108,
+            "max": [
+                0.932419776916504,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0018611169653013349,
+                0.0019919280894100668
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_Spoiler4_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 48840,
+            "componentType": 5123,
+            "count": 1272,
+            "max": [
+                547
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_Spoiler4_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 218400,
+            "componentType": 5126,
+            "count": 548,
+            "max": [
+                1.0,
+                0.9995378255844116,
+                0.999285101890564
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -0.999706506729126
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_Spoiler4_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 224976,
+            "componentType": 5126,
+            "count": 548,
+            "max": [
+                19.24237060546875,
+                109.54753875732422,
+                -201.2330780029297
+            ],
+            "min": [
+                -115.27110290527344,
+                80.12987518310547,
+                -235.7624664306641
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_Spoiler4_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 145600,
+            "componentType": 5126,
+            "count": 548,
+            "max": [
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -0.9994598627090454,
+                -0.9999535083770752,
+                -0.9847960472106934,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_Spoiler4_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 99488,
+            "componentType": 5126,
+            "count": 548,
+            "max": [
+                0.9435168504714966,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0018832669593393805,
+                0.0019919280894100668
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_GroundBody1_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 51384,
+            "componentType": 5123,
+            "count": 1956,
+            "max": [
+                733
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_GroundBody1_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 231552,
+            "componentType": 5126,
+            "count": 734,
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_GroundBody1_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 240360,
+            "componentType": 5126,
+            "count": 734,
+            "max": [
+                24.143386840820314,
+                26.98804473876953,
+                66.57599639892578
+            ],
+            "min": [
+                -118.919921875,
+                17.462430953979493,
+                -241.1944580078125
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_GroundBody1_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 154368,
+            "componentType": 5126,
+            "count": 734,
+            "max": [
+                1.0,
+                1.0,
+                0.07715807855129242,
+                1.0
+            ],
+            "min": [
+                -0.1473543792963028,
+                -1.0,
+                -0.2826744019985199,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_GroundBody1_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 103872,
+            "componentType": 5126,
+            "count": 734,
+            "max": [
+                0.9980079531669616,
+                0.9980584383010864
+            ],
+            "min": [
+                0.0019920319318771364,
+                0.02729189395904541
+            ],
+            "type": "VEC2"
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_duplShape#0/indices",
+            "bufferView": 0,
+            "byteOffset": 55296,
+            "componentType": 5123,
+            "count": 36,
+            "max": [
+                13
+            ],
+            "min": [
+                0
+            ],
+            "type": "SCALAR"
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_duplShape#0/vertices/NORMAL",
+            "bufferView": 1,
+            "byteOffset": 249168,
+            "componentType": 5126,
+            "count": 14,
+            "max": [
+                0.17784391343593598,
+                0.885211169719696,
+                -0.4298521280288697
+            ],
+            "min": [
+                -0.17784415185451508,
+                0.8786868453025818,
+                -0.4773986339569092
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_duplShape#0/vertices/POSITION",
+            "bufferView": 1,
+            "byteOffset": 249336,
+            "componentType": 5126,
+            "count": 14,
+            "max": [
+                14.915679931640624,
+                108.3748550415039,
+                -143.19451904296876
+            ],
+            "min": [
+                -109.6923370361328,
+                82.24633026123047,
+                -190.85211181640626
+            ],
+            "type": "VEC3"
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_duplShape#0/vertices/TANGENT",
+            "bufferView": 2,
+            "byteOffset": 166112,
+            "componentType": 5126,
+            "count": 14,
+            "max": [
+                0.0010004870127886534,
+                -0.4366551339626312,
+                -0.8786868453025818,
+                1.0
+            ],
+            "min": [
+                -0.0009998510358855129,
+                -0.4773986339569092,
+                -0.8996284008026123,
+                1.0
+            ],
+            "type": "VEC4"
+        },
+        {
+            "name": "evo4_BackGlassGlass_f1_duplShape#0/vertices/TEXCOORD_0",
+            "bufferView": 3,
+            "byteOffset": 109744,
+            "componentType": 5126,
+            "count": 14,
+            "max": [
+                0.3816983103752136,
+                0.9980079531669616
+            ],
+            "min": [
+                0.0007618729723617435,
+                0.001991986995562911
+            ],
+            "type": "VEC2"
+        }
+    ],
+    "bufferViews": [
+        {
+            "name": "Muscle Evolution4 Orange WaveBlackGreen Blue LightGrey/data/indices-2",
+            "buffer": 0,
+            "byteOffset": 525696,
+            "byteLength": 55368,
+            "target": 34963
+        },
+        {
+            "name": "Muscle Evolution4 Orange WaveBlackGreen Blue LightGrey/data/vertices-12",
+            "buffer": 0,
+            "byteOffset": 166336,
+            "byteLength": 249504,
+            "byteStride": 12,
+            "target": 34962
+        },
+        {
+            "name": "Muscle Evolution4 Orange WaveBlackGreen Blue LightGrey/data/vertices-16",
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 166336,
+            "byteStride": 16,
+            "target": 34962
+        },
+        {
+            "name": "Muscle Evolution4 Orange WaveBlackGreen Blue LightGrey/data/vertices-8",
+            "buffer": 0,
+            "byteOffset": 415840,
+            "byteLength": 109856,
+            "byteStride": 8,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "name": "Muscle Evolution4 Orange WaveBlackGreen Blue LightGrey/data",
+            "byteLength": 581064,
+            "uri": "Muscle Evolution4 Orange WaveBlackGreen Blue LightGrey0.bin"
+        }
+    ]
+}
