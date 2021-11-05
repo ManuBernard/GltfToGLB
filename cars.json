@@ -1,22 +1,37 @@
 [
   {
-    "name": "Muscle Evolution1 Black ArmyBlackRed LightBlue LightGrey Horn2",
-    "file": "/exports/glbs/Muscle Evolution1 Black ArmyBlackRed LightBlue LightGrey Horn2.glb",
-    "preview": "/exports/pngs/Muscle Evolution1 Black ArmyBlackRed LightBlue LightGrey Horn2.png"
+    "name": "Legends Series - ALR G1",
+    "file": "/exports/glbs/Legends Series - ALR G1.glb",
+    "preview": "/exports/pngs/Legends Series - ALR G1.png"
   },
   {
-    "name": "Ranger Evolution2 Black SlideKakiGreen DarkIndigo LightGrey Horn1",
-    "file": "/exports/glbs/Ranger Evolution2 Black SlideKakiGreen DarkIndigo LightGrey Horn1.glb",
-    "preview": "/exports/pngs/Ranger Evolution2 Black SlideKakiGreen DarkIndigo LightGrey Horn1.png"
+    "name": "Legends Series - Muscle Pesky Penguins",
+    "file": "/exports/glbs/Legends Series - Muscle Pesky Penguins.glb",
+    "preview": "/exports/pngs/Legends Series - Muscle Pesky Penguins.png"
   },
   {
-    "name": "Ranger Evolution3 Blue Black DarkIndigo LightGrey Horn1",
-    "file": "/exports/glbs/Ranger Evolution3 Blue Black DarkIndigo LightGrey Horn1.glb",
-    "preview": "/exports/pngs/Ranger Evolution3 Blue Black DarkIndigo LightGrey Horn1.png"
+    "name": "Legends Series - Ranger Audius",
+    "file": "/exports/glbs/Legends Series - Ranger Audius.glb",
+    "preview": "/exports/pngs/Legends Series - Ranger Audius.png"
   },
   {
-    "name": "Ranger Evolution4 Black SlideKakiWhite DarkIndigo LightGrey Horn4",
-    "file": "/exports/glbs/Ranger Evolution4 Black SlideKakiWhite DarkIndigo LightGrey Horn4.glb",
-    "preview": "/exports/pngs/Ranger Evolution4 Black SlideKakiWhite DarkIndigo LightGrey Horn4.png"
+    "name": "Legends Series - Ranger MonkeDAO",
+    "file": "/exports/glbs/Legends Series - Ranger MonkeDAO.glb",
+    "preview": "/exports/pngs/Legends Series - Ranger MonkeDAO.png"
+  },
+  {
+    "name": "Legends Series - Ranger SMB",
+    "file": "/exports/glbs/Legends Series - Ranger SMB.glb",
+    "preview": "/exports/pngs/Legends Series - Ranger SMB.png"
+  },
+  {
+    "name": "Legends Series - Ranger ThugBirdz",
+    "file": "/exports/glbs/Legends Series - Ranger ThugBirdz.glb",
+    "preview": "/exports/pngs/Legends Series - Ranger ThugBirdz.png"
+  },
+  {
+    "name": "Special Events - Ranger Halloween 2021",
+    "file": "/exports/glbs/Special Events - Ranger Halloween 2021.glb",
+    "preview": "/exports/pngs/Special Events - Ranger Halloween 2021.png"
   }
 ]

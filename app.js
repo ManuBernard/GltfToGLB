@@ -54,13 +54,13 @@ fs.readdir(carsFolder, (err, files) => {
 
       // Copy file
       gltfIE.ConvertGltfToGLB(
-        carsFolder + file + "/" + file + ".gltf",
+        carsFolder + file + "/model.gltf",
         glbsDirectory + newFile + ".glb"
       );
 
       // Copy Png
       fs.copyFile(
-        carsFolder + file + "/" + file + ".png",
+        carsFolder + file + "/preview.png",
         pngsDirectory + newFile + ".png",
         (err) => {
           if (err) throw err;
