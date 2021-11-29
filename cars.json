@@ -1,37 +1,7 @@
 [
   {
-    "name": "Legends Series - ALR G1",
-    "file": "/exports/glbs/Legends Series - ALR G1.glb",
-    "preview": "/exports/pngs/Legends Series - ALR G1.png"
-  },
-  {
-    "name": "Legends Series - Muscle Pesky Penguins",
-    "file": "/exports/glbs/Legends Series - Muscle Pesky Penguins.glb",
-    "preview": "/exports/pngs/Legends Series - Muscle Pesky Penguins.png"
-  },
-  {
-    "name": "Legends Series - Ranger Audius",
-    "file": "/exports/glbs/Legends Series - Ranger Audius.glb",
-    "preview": "/exports/pngs/Legends Series - Ranger Audius.png"
-  },
-  {
-    "name": "Legends Series - Ranger MonkeDAO",
-    "file": "/exports/glbs/Legends Series - Ranger MonkeDAO.glb",
-    "preview": "/exports/pngs/Legends Series - Ranger MonkeDAO.png"
-  },
-  {
-    "name": "Legends Series - Ranger SMB",
-    "file": "/exports/glbs/Legends Series - Ranger SMB.glb",
-    "preview": "/exports/pngs/Legends Series - Ranger SMB.png"
-  },
-  {
-    "name": "Legends Series - Ranger ThugBirdz",
-    "file": "/exports/glbs/Legends Series - Ranger ThugBirdz.glb",
-    "preview": "/exports/pngs/Legends Series - Ranger ThugBirdz.png"
-  },
-  {
-    "name": "Special Events - Ranger Halloween 2021",
-    "file": "/exports/glbs/Special Events - Ranger Halloween 2021.glb",
-    "preview": "/exports/pngs/Special Events - Ranger Halloween 2021.png"
+    "name": "Mucle_Woof",
+    "file": "/exports/glbs/Mucle_Woof.glb",
+    "preview": "/exports/pngs/Mucle_Woof.png"
   }
 ]
